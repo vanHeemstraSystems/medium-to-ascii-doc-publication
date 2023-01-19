@@ -5,6 +5,12 @@ Based on "wardley-maps-book" at https://github.com/andrewharmellaw/wardley-maps-
 
 See also "medium-publication" at https://github.com/vanHeemstraSystems/medium-publication
 
+See also "medium-act-i-book" at https://github.com/vanHeemstraSystems/medium-act-i-book
+
+See also "medium-act-ii-book" at https://github.com/vanHeemstraSystems/medium-act-ii-book
+
+See also "medium-act-iii-book" at https://github.com/vanHeemstraSystems/medium-act-iii-book
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
